@@ -5,3 +5,20 @@ body
     text-align: center;
     font-family: "Arial";
 }
+
+
+#container{
+
+height: 20%;
+width: 50%;
+text-align: left;
+color: black;
+border: 2px solid black;
+margin: 0 auto;
+padding: 1%;
+}
+
+#container h1{
+    font-size: 30px;
+    color:red;
+}

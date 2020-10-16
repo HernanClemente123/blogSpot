@@ -48,7 +48,12 @@ text-align: center;
   
     height: 100px;
     text-align: center;
-    margin-top: 620px;
+   
+
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    width: 52%;
+    margin :0 auto;
 }
 
 #footer p{
